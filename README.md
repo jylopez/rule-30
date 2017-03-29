@@ -11,7 +11,7 @@ npm install rule-30
 
 ``` js
 /*
-Pass in binary array of length n (e.g. [0, 1, 0, 0]). Function returns an array of length n+2 after applying Rule 30:
+Pass in binary array of length n (e.g. [0, 1, 0, 0]). Function returns an array of length n+2 after applying Rule 30.
 pattern:                   111  110  101  100  011  010  001  000
 new state of center value:  0    0    0    1    1    1    1    0
 */
