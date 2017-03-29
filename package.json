@@ -1,0 +1,27 @@
+{
+  "name": "rule-30",
+  "version": "1.0.0",
+  "description": "Returns new binary state of array after applying cellular automaton Rule 30",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "rule",
+    "30",
+    "cellular",
+    "automaton",
+    "chaos",
+    "wolfram"
+  ],
+  "author": "Jershon Lopez",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jylopez/rule-30.git"
+  },
+  "homepage": "https://github.com/jylopez/rule-30"
+}
